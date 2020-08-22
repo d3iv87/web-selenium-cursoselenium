@@ -30,9 +30,9 @@ public class Datatypes {
 //		System.out.println(base);
 		
 		/*Datos caracter y logico*/
-		char letra1;
-		char letra2;
-		String frase;
+		//char letra1;
+		//char letra2;
+		//String frase;
 		
 		//letra1='h';
 		//letra2='Niño';
